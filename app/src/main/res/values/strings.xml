@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockPlayStore</string>
+    <string name="service_description">השירות חוסם פתיחה של Google Play</string>
+</resources>
