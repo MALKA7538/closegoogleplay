@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
         startActivity(intent)
         Toast.makeText(
             this,
-            "גלול למטה, מצא את BlockPlayStore והפעל אותו",
+            "גלול למטה, מצא בתוך ישומים מותקנים את BlockPlayStore והפעל אותו",
             Toast.LENGTH_LONG
         ).show()
     }
